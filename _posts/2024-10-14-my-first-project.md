@@ -6,8 +6,6 @@ description: "A web scraper that collects data from e-commerce websites."
 tags: [Python, Web Scraping]
 ---
 
-# My First Project
-
 This project is a web scraper built using **Python** and **BeautifulSoup**. It scrapes data from e-commerce websites and stores it in a local database for analysis.
 
 - **Technologies**: Python, BeautifulSoup, SQLite
