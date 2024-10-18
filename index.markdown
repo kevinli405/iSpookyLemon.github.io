@@ -16,4 +16,4 @@ I’m a computer science student at the University of Pennsylvania. Check out so
 Learn more about me on my [About Me page](/about/).
 
 ## Contact
-You can reach me at my email [kevinkli@seas.upenn.edu](mailto:kevinkli@seas.upenn.edu) or [LinkedIn](https://www.linkedin.com/in/your-linkedin).
+You can reach me at my email [kevinkli@seas.upenn.edu](mailto:kevinkli@seas.upenn.edu) or [LinkedIn](https://www.linkedin.com/in/kevin-li-b058102a1/).
