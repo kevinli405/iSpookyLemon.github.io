@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Cybersecurity Research"
-date: 2024-10-16
-description: "Research published in 2023 ACM CCS conducted with professors and PHD students at the University of Kansas"
+date: 2023-10-16
+description: "Research published in 2023 ACM CCS conducted with professors and PHD students at the University of Kansas - Summer 2023"
 permalink: "cybersecurity-research"
 tags: [Python, Web Scraping]
 ---
+
+![ACM Website Screenshot](assets/images/cybersecurityresearch.png)
 
 Working with a team at the University of Kansas, I analyzed the trends of ethical considerations in cybersecurity papers over roughly the past decade. 
 

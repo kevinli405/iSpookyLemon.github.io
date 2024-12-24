@@ -5,3 +5,11 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.custom-image {
+  width: 50%; /* Shrinks the image to 50% of its container's width */
+  max-width: 300px; /* Ensures it doesn't exceed 300px */
+  height: auto; /* Maintains aspect ratio */
+  margin: 0 auto; /* Centers the image horizontally (if block-level) */
+  display: block; /* Makes the image block-level for centering */
+}
