@@ -4,19 +4,27 @@ title: "Subtitle Editor"
 date: 2025-01-28
 description: "Web app for creating and editing subtitles for videos - Winter 2025"
 permalink: "subtitle-editor"
-tags: [React.js, CSS, Vercel, Render]
+tags: [React, CSS, Javascript, Flask, FFmpeg, Axios, Vercel, Render]
 ---
 
-![ACM Website Screenshot](assets/images/cybersecurityresearch.png)
+![Website Screenshot](assets/images/subtitleeditor.png)
 
-Working with a team at the University of Kansas, I analyzed the trends of ethical considerations in cybersecurity papers over roughly the past decade. 
+This web app was inspired by my personal experiences as a music producer on TikTok, where I relied on CapCut for video editing. However, with CapCut facing potential shutdown due to the TikTok ban, I created a custom web solution for video editing and subtitle management.
 
-First, we looked at existing ethical guidelines regarding cybersecurity research. We found that many cybersecurity conferences are now including “ethics” sections in their call for papers that explicitly state the regulations and procedures that researchers have to follow. 
+The app empowers users to upload videos, edit or generate subtitles, and download processed videos with their subtitles seamlessly integrated. Built with React, Flask, and Tailwind CSS, the app utilizes advanced tools like Vercel for deployment and axios for robust API communication. This project reflects my commitment to creating intuitive, functional tools tailored to creative workflows, drawing from my own needs as a content creator.
 
-After doing an initial survey of the current ethical guidelines, we collected a dataset of papers from top cybersecurity conferences to see how ethical considerations have changed over time. I created this dataset by scraping these cybersecurity conference websites using the Python libraries BeautifulSoup and Selenium. Next, I conducted a keyword search of the dataset to find mentions of words such as “ethics” or “institutional review board”. Then, we further separated the papers into smaller subfields based on the research topic of the paper. Finally, we used this information to compare the ethical considerations addressed across different subfields of cybersecurity research. 
+Key features include:
 
-Our results showed that there has been an overall upward trend in how often ethical considerations are addressed in cybersecurity papers. Furthermore, the data shows that more researchers are seeking approval from an institutional review board or an ethics committee before conducting their studies. Additionally, some subfields of cybersecurity such as those dealing with authentication and cyberattacks have a greater focus on ethical considerations because they are at the highest risk of potentially unethical behavior. Overall, we saw a generally positive trend in the cybersecurity research community where researchers have begun to pay more attention to the ethical impacts of their research.
+Real-Time Subtitle Editing: Edit subtitle text, start and end times, and preview changes alongside the video.
+
+Responsive Design: Optimized for various screen sizes using modern CSS techniques.
+
+Backend Video Processing: Leveraged FFmpeg and Flask to embed subtitles into the video seamlessly.
+
+File Upload and Download: Handles video file uploads and returns processed videos as downloadable links.
+
+Deployment: The frontend is hosted on Vercel, while the backend is deployed on Render, ensuring a smooth and scalable user experience.
 
 
-- **Technologies**: Python, BeautifulSoup, Selenium
-- **Publication Link**: [https://dl.acm.org/doi/abs/10.1145/3576915.3624378](https://dl.acm.org/doi/abs/10.1145/3576915.3624378)
+- **Technologies**: React, CSS, Javascript, Flask, FFmpeg, Axios, Vercel, Render
+- **Publication Link**: [https://autocaption-seven.vercel.app/](https://autocaption-seven.vercel.app/)
