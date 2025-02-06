@@ -13,4 +13,4 @@ In the summer of 2023, I created a website for music producers to share short me
 
 - **Technologies**: React.js, Firebase, Chakra UI
 - **Website Link**: [https://loopdeposit.web.app/](https://loopdeposit.web.app/)
-- **GitHub Repo**: [https://github.com/iSpookyLemon/loopdeposit](https://github.com/iSpookyLemon/loopdeposit)
+- **GitHub Repo**: [https://github.com/kevinli405/loopdeposit](https://github.com/kevinli405/loopdeposit)

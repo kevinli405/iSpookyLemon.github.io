@@ -27,4 +27,5 @@ Deployment: The frontend is hosted on Vercel, while the backend is deployed on R
 
 
 - **Technologies**: React, CSS, Javascript, Flask, FFmpeg, Axios, Vercel, Render
-- **Publication Link**: [https://autocaption-seven.vercel.app/](https://autocaption-seven.vercel.app/)
+- **Website Link**: [https://autocaption-seven.vercel.app/](https://autocaption-seven.vercel.app/)
+- **Github Repo**: [https://github.com/kevinli405/autocaption](https://github.com/kevinli405/autocaption)
